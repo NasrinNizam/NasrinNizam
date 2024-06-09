@@ -5,7 +5,17 @@
 #### I am React Developer
 
 
-Skills:  / REACT / JS / HTML / CSS / JAVASCRIPT / FIGMA / BOOTSTRAP
+Skills : 
+01. HTML
+02. CSS
+03. FIGMA
+04. Bootstrap
+05. Tailwind
+06. Pluggin
+07. jquery
+08. React js
+08. Javascript
+09.React Redux
 
 - 🌱 I’m currently learning React, JavaScript. 
 
