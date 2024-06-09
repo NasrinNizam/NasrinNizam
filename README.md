@@ -14,8 +14,8 @@ Skills :
 06. Pluggin
 07. jquery
 08. React js
-08. Javascript
-09.React Redux
+09. Javascript
+10. React Redux
 
 - 🌱 I’m currently learning React, JavaScript. 
 
