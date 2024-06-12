@@ -6,7 +6,7 @@
 I love creating clean, efficient code and enjoy working in agile environments. I'm always eager to learn new technologies and contribute to open-source projects. When I'm not coding, I enjoy exploring tech trends and reading. I'm excited to bring my skills and passion to your next project!
 
 
-Skills : 
+<h3>Skills : </h3>
 01. HTML
 02. CSS
 03. FIGMA
