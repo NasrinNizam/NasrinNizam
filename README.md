@@ -7,16 +7,16 @@ I love creating clean, efficient code and enjoy working in agile environments. I
 
 
 <h3>Skills : </h3>
-01. HTML
-02. CSS
-03. FIGMA
-04. Bootstrap
-05. Tailwind
-06. Pluggin
-07. jquery
-08. React js
-09. Javascript
-10. React Redux
+01. HTML <br>
+02. CSS <br>
+03. FIGMA <br>
+04. Bootstrap <br>
+05. Tailwind <br>
+06. Pluggin <br>
+07. jquery <br>
+08. React js <br>
+09. Javascript <br>
+10. React Redux <br>
 
 - 🌱 I’m currently learning React, JavaScript. 
 
